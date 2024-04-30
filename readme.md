@@ -4,6 +4,8 @@ This repository contains all of my study notes / practice / research done on Qua
 
 > [!IMPORTANT]
 > This repo in no means is creation of qiskit or q#. It is to safe keep and track my learning journey in QM. It comes with open LICENSE, and can be reused for teaching / ( `community stuff` ) as per LICENSE
+> ---
+> I'm in middle of uploading all of my codes and materials. Just give this repo a star to stay up-to-date
 
 ## Repo organizations: 
 
@@ -35,9 +37,9 @@ Right now I'm researching on ability of Quantum Computer to break RSA, SHA-256, 
 
 #### (qasm): 
 
-- [ ] simple_qasm_code
-- [ ] entangled_registers.qasm: 8 bit qubit entangling two 4 bit registers
-- [ ] plaquette_check.qasm: plaquette check
+- [x] simple_qasm_code
+- [x] entangled_registers.qasm: 8 bit qubit entangling two 4 bit registers
+- [x] plaquette_check.qasm: plaquette check
 
 ## Contributing: 
 
