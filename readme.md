@@ -6,6 +6,8 @@ This repository contains all of my study notes / practice/research done on Quant
 >
 > > I'm in the middle of uploading all of my codes and materials. Just give this repo a star to stay up-to-date
 >
+> TODO: Add explanation of code in `python-impl`
+>
 > This repo by no means is the creation of qiskit or q#. It is to safely keep and track my learning journey in QM. It comes with open LICENSE and can be reused for teaching / ( `community stuff` ) as per LICENSE
 
 ## Repo organizations:
@@ -25,16 +27,16 @@ Right now I'm researching the ability of Quantum Computer to break RSA, SHA-256,
 
 #### (python) :
 
-- [ ] circuit draw: draw basic quantum circuit.
-- [ ] commutation_relation: generate circuit for communication analysis, and so on...
-- [ ] ghz state: implementation of ghz state
-- [ ] init: example use of initialize gate to prepare arbitrary pure states
-- [ ] load_qasm: load qasm file on the circuit
-- [ ] qft: implementation of Quantum Fourier Transform
-- [ ] reppleadd: repple adder based on `Cuccaro et al., quant-ph/0410184`
-- [ ] st_swap: Example usage of StochasticSwap pass
-- [ ] teleport: Quantum teleportation example
-- [ ] qiskit_terra_level_0: Use Qiskit at the introduction level
+- [x] circuit draw: draw basic quantum circuit.
+- [x] commutation_relation: generate circuit for communication analysis, and so on...
+- [x] ghz state: implementation of ghz state
+- [x] init: example use of initialize gate to prepare arbitrary pure states
+- [x] load_qasm: load qasm file on the circuit
+- [x] qft: implementation of Quantum Fourier Transform
+- [x] reppleadd: repple adder based on `Cuccaro et al., quant-ph/0410184`
+- [x] st_swap: Example usage of StochasticSwap pass
+- [x] teleport: Quantum teleportation example
+- [x] qiskit_terra_level_0: Use Qiskit at the introduction level
 
 #### (qasm):
 
